@@ -1,0 +1,38 @@
+.body-class {
+  background-color: #606c5d;
+}
+
+.main-heading {
+  color: #fff4f4;
+  text-align: center;
+  padding: 1rem;
+  margin: 1rem;
+  font-family: "Brush Script MT", cursive;
+  font-size: 8rem;
+}
+
+.text-and-image {
+  text-align: center;
+}
+
+.dice-image {
+  width: 13rem;
+  height: 13rem;
+  margin: 2rem;
+}
+
+.person-text {
+  font-family: "Brush Script MT", cursive;
+  font-size: 3rem;
+  color: #f1c376;
+}
+
+.footer {
+  background-color: black;
+  padding: 20px;
+}
+
+.footer-text {
+  text-align: center;
+  color: white;
+}
