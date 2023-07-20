@@ -28,8 +28,14 @@
 }
 
 .final-footer {
-  background-color: black;
-  padding: 20px;
+  position: fixed;
+  padding: 40px 10px;
+  padding-bottom: 60px;
+  bottom: 0rem;
+  width: 100%;
+  /* Height of the footer*/
+  height: 40px;
+  background: grey;
 }
 
 .footer-text {
